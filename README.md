@@ -1,5 +1,6 @@
 # Predicting Profits
 
+
 ## Objective
 In this report I predicted profit as a target feature from multivariate features.
 I used Python Programming version 3 and Jupyter Notebook to write and run code.
@@ -12,6 +13,7 @@ All of them are numerical categories.
     - Marketing Spend: refers to the costs of marketing processes
     - State: refers to name of State
     - Profit: refers to total of profits in United State Dollars $
+    
 
-## Used Algorithm
+## Algorithm Used
 I used linear regression algorithm with back-word elimination technique to optimize model with the actual features.
